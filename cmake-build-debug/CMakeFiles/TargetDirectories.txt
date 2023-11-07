@@ -1,0 +1,3 @@
+C:/Users/keilo/OneDrive/Desktop/Universidad/UNA/II Ciclo 2023/Progra II/a/cmake-build-debug/CMakeFiles/a.dir
+C:/Users/keilo/OneDrive/Desktop/Universidad/UNA/II Ciclo 2023/Progra II/a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/keilo/OneDrive/Desktop/Universidad/UNA/II Ciclo 2023/Progra II/a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
