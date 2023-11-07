@@ -8,5 +8,6 @@ using namespace std;
 
 int main() {
     cout << "Test" << endl;
+    cout << "prueba" << endl;
     return 0;
 }
